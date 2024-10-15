@@ -1,0 +1,36 @@
+# Dependencias de Node.js
+node_modules/
+
+# Reportes de cobertura
+coverage/
+
+# Archivos de entorno
+.env
+
+# Archivos de construcción de TypeScript
+dist/
+
+# Archivos de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directorios de producción (si usas Swagger UI o similar)
+swagger-ui/
+
+# Configuraciones del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de pruebas de Jest
+jest-test-results.json
+
+# Configuraciones de IDE/editores
+.vscode/
+.idea/
+
+# Archivos de bloqueo de paquetes (dependiendo de cuál uses)
+package-lock.json
+yarn.lock
+
+client/
